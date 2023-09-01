@@ -8,20 +8,28 @@
 </head>
 <body>
     <div class="container">
-        <h1>9° Alto Fest</h1>
-        <h2>Venha para a 9° Alto Fest!</h2>
-        <p>Muitas atrações esperam por você.</p>
-        <p>Dias 12, 13, 14 e 15 de outubro de 2023.</p>
+        <div class="titulo">
+            <h1>9° Alto Fest</h1>
+        </div>
+        <div class="subtitulo">
+            <h2>Venha para a 9° Alto Fest!</h2>
+        </div>
+        <div class="">
+            <p>Muitas atrações esperam por você.</p>
+        </div>
+        <div class="">
+            <p>Dias 12, 13, 14 e 15 de outubro de 2023.</p>
+        </div>
         <figure>
             <img src="imagens/imagem1.jpeg" alt="Descrição da imagem 1">
             <figcaption>Informações sobre a imagem 1</figcaption>
         </figure>
         <figure>
-            <img src="imagens/imagem2.jpeg" alt="Descrição da imagem 1">
+            <img src="imagens/imagem2.jpeg" alt="Descrição da imagem 2">
             <figcaption>Informações sobre a imagem 2</figcaption>
         </figure>
         <figure>
-            <img src="imagens/imagem3.jpeg" alt="Descrição da imagem 1">
+            <img src="imagens/imagem3.jpeg" alt="Descrição da imagem 3">
             <figcaption>Informações sobre a imagem 3</figcaption>
         </figure>
     </div>
