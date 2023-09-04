@@ -10,8 +10,6 @@ body {
     background-color: #f0f0f0;
     font-family: Arial, sans-serif;
     text-align: center;
-    margin: 0;
-    padding: 0;
 }
 
 .container {
@@ -68,10 +66,9 @@ p:nth-child(2) {
     transition: transform 0.3s;
 }
 
-/*.image-card:hover img {
+.image-card:hover img {
     transform: scale(1.1);
 }
-*/
 
 .image-card .info {
     position: absolute;
@@ -87,4 +84,33 @@ p:nth-child(2) {
 
 .image-card:hover .info {
     transform: translateY(0);
+}
+
+.programacao {
+    margin: 50px 30px;
+    position: relative;
+    overflow: hidden;
+}
+
+.titulo-prog {
+    margin: 30px;
+}
+
+.image-folder img {
+    margin: 10px;
+    width: 100%;
+    height: auto;
+    transition: transform 0.3s;
+}
+
+.image-folder:hover img {
+    transform: scale(1.05);
+}
+
+.links {
+    margin: 30px;
+}
+
+.link {
+    color: #666;
 }
