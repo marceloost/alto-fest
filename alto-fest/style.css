@@ -33,15 +33,20 @@ body {
     margin: 20px;
 }
 
-.subtitulo{
+.titulo-img {
+    font-size: 20px;
+    color: #55977f;
+}
+
+.subtitulo {
     font-size: 24px;
     color: #55977f;
     margin: 20px;
 }
 
-.descricao{
+.descricao {
     font-size: 18px;
-    color: #666;
+    color: #d3d2d2;
     margin-bottom: 10px;
 }
 
@@ -96,7 +101,9 @@ body {
 }
 
 .titulo-prog {
+    font-size: 24px;
     margin: 30px;
+    color: #666;
 }
 
 .image-folder img {
@@ -111,7 +118,9 @@ body {
 }
 
 .links {
-    margin: 30px;
+    font-size: 18px;
+    color: #666;
+    margin-bottom: 10px;
 }
 
 .link {
